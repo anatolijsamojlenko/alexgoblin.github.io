@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".section-menu-inner").masonry({itemSelector:".section-menu-inner-item",columnWidth:433,gutter:180}),$(".parallax-window").parallax({speed:.4})});
